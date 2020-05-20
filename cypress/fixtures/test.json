@@ -1,0 +1,410 @@
+{
+  "posts": [
+    {
+      "data": {
+        "posts": [
+          {
+            "title": "A day on the beach",
+            "id": "1",
+            "__typename": "Post"
+          },
+          {
+            "title": "In his own words: \"The cows could be said to resemble boundless nectarines!",
+            "id": "2",
+            "__typename": "Post"
+          },
+          {
+            "title": "The chimpanzees could be said to resemble skillful puppies",
+            "id": "3",
+            "__typename": "Post"
+          },
+          {
+            "title": "A lime is a conscientious grape",
+            "id": "4",
+            "__typename": "Post"
+          },
+          {
+            "title": "Some posit the sensitive nectarine to be less than wonderful",
+            "id": "5",
+            "__typename": "Post"
+          },
+          {
+            "title": "One cannot separate sheeps from courageous watermelons",
+            "id": "6",
+            "__typename": "Post"
+          },
+          {
+            "title": "Those grapes are nothing more than kumquats",
+            "id": "7",
+            "__typename": "Post"
+          },
+          {
+            "title": "The cat of a cat becomes an optimistic spider",
+            "id": "8",
+            "__typename": "Post"
+          },
+          {
+            "title": "The lemon of a peach becomes a funny rabbit",
+            "id": "9",
+            "__typename": "Post"
+          },
+          {
+            "title": "The endurable chicken reveals itself as a tough seal to those who look",
+            "id": "10",
+            "__typename": "Post"
+          },
+          {
+            "title": "We can assume that any instance of a chicken can be construed as a delightful melon",
+            "id": "11",
+            "__typename": "Post"
+          },
+          {
+            "title": "Shouting with happiness, a squirrel sees a prune as an amusing owl",
+            "id": "12",
+            "__typename": "Post"
+          },
+          {
+            "title": "Quoting with intend: \"A lion sees a shark as a dynamic kiwi.",
+            "id": "13",
+            "__typename": "Post"
+          },
+          {
+            "title": "Some dynamic tigers are thought of simply as crocodiles",
+            "id": "14",
+            "__typename": "Post"
+          },
+          {
+            "title": "Some posit the relieved prune to be less than unbiased",
+            "id": "15",
+            "__typename": "Post"
+          },
+          {
+            "title": "A willing lime is a prune of the mind",
+            "id": "16",
+            "__typename": "Post"
+          },
+          {
+            "title": "A dolphin of the grapes is assumed to be a plausible scorpion",
+            "id": "17",
+            "__typename": "Post"
+          },
+          {
+            "title": "Wispering: \"The literature would have us believe that a careful snake is not but a seal;",
+            "id": "18",
+            "__typename": "Post"
+          },
+          {
+            "title": "Before strawberries, strawberries were only strawberries",
+            "id": "19",
+            "__typename": "Post"
+          },
+          {
+            "title": "They were lost without the tidy sheep that composed their zebra",
+            "id": "20",
+            "__typename": "Post"
+          },
+          {
+            "title": "Their cat was, in this moment, an amicable elephant",
+            "id": "21",
+            "__typename": "Post"
+          },
+          {
+            "title": "Those goats are nothing more than watermelons",
+            "id": "22",
+            "__typename": "Post"
+          },
+          {
+            "title": "Incomprehensibilities of a excellent blueberry and a blueberry made a scorpion comfortable",
+            "id": "23",
+            "__typename": "Post"
+          },
+          {
+            "title": "Coding for joy",
+            "id": "24",
+            "__typename": "Post"
+          },
+          {
+            "title": "On the road",
+            "id": "25",
+            "__typename": "Post"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "posts": [
+          {
+            "title": "A day on the beach 2",
+            "id": "1",
+            "__typename": "Post"
+          },
+          {
+            "title": "In his own words: \"The cows could be said to resemble boundless nectarines!",
+            "id": "2",
+            "__typename": "Post"
+          },
+          {
+            "title": "The chimpanzees could be said to resemble skillful puppies",
+            "id": "3",
+            "__typename": "Post"
+          },
+          {
+            "title": "A lime is a conscientious grape",
+            "id": "4",
+            "__typename": "Post"
+          },
+          {
+            "title": "Some posit the sensitive nectarine to be less than wonderful",
+            "id": "5",
+            "__typename": "Post"
+          },
+          {
+            "title": "One cannot separate sheeps from courageous watermelons",
+            "id": "6",
+            "__typename": "Post"
+          },
+          {
+            "title": "Those grapes are nothing more than kumquats",
+            "id": "7",
+            "__typename": "Post"
+          },
+          {
+            "title": "The cat of a cat becomes an optimistic spider",
+            "id": "8",
+            "__typename": "Post"
+          },
+          {
+            "title": "The lemon of a peach becomes a funny rabbit",
+            "id": "9",
+            "__typename": "Post"
+          },
+          {
+            "title": "The endurable chicken reveals itself as a tough seal to those who look",
+            "id": "10",
+            "__typename": "Post"
+          },
+          {
+            "title": "We can assume that any instance of a chicken can be construed as a delightful melon",
+            "id": "11",
+            "__typename": "Post"
+          },
+          {
+            "title": "Shouting with happiness, a squirrel sees a prune as an amusing owl",
+            "id": "12",
+            "__typename": "Post"
+          },
+          {
+            "title": "Quoting with intend: \"A lion sees a shark as a dynamic kiwi.",
+            "id": "13",
+            "__typename": "Post"
+          },
+          {
+            "title": "Some dynamic tigers are thought of simply as crocodiles",
+            "id": "14",
+            "__typename": "Post"
+          },
+          {
+            "title": "Some posit the relieved prune to be less than unbiased",
+            "id": "15",
+            "__typename": "Post"
+          },
+          {
+            "title": "A willing lime is a prune of the mind",
+            "id": "16",
+            "__typename": "Post"
+          },
+          {
+            "title": "A dolphin of the grapes is assumed to be a plausible scorpion",
+            "id": "17",
+            "__typename": "Post"
+          },
+          {
+            "title": "Wispering: \"The literature would have us believe that a careful snake is not but a seal;",
+            "id": "18",
+            "__typename": "Post"
+          },
+          {
+            "title": "Before strawberries, strawberries were only strawberries",
+            "id": "19",
+            "__typename": "Post"
+          },
+          {
+            "title": "They were lost without the tidy sheep that composed their zebra",
+            "id": "20",
+            "__typename": "Post"
+          },
+          {
+            "title": "Their cat was, in this moment, an amicable elephant",
+            "id": "21",
+            "__typename": "Post"
+          },
+          {
+            "title": "Those goats are nothing more than watermelons",
+            "id": "22",
+            "__typename": "Post"
+          },
+          {
+            "title": "Incomprehensibilities of a excellent blueberry and a blueberry made a scorpion comfortable",
+            "id": "23",
+            "__typename": "Post"
+          },
+          {
+            "title": "Coding for joy",
+            "id": "24",
+            "__typename": "Post"
+          },
+          {
+            "title": "On the road",
+            "id": "25",
+            "__typename": "Post"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "posts": [
+          {
+            "title": "In his own words: \"The cows could be said to resemble boundless nectarines!",
+            "id": "2",
+            "__typename": "Post"
+          },
+          {
+            "title": "The chimpanzees could be said to resemble skillful puppies",
+            "id": "3",
+            "__typename": "Post"
+          },
+          {
+            "title": "A lime is a conscientious grape",
+            "id": "4",
+            "__typename": "Post"
+          },
+          {
+            "title": "Some posit the sensitive nectarine to be less than wonderful",
+            "id": "5",
+            "__typename": "Post"
+          },
+          {
+            "title": "One cannot separate sheeps from courageous watermelons",
+            "id": "6",
+            "__typename": "Post"
+          },
+          {
+            "title": "Those grapes are nothing more than kumquats",
+            "id": "7",
+            "__typename": "Post"
+          },
+          {
+            "title": "The cat of a cat becomes an optimistic spider",
+            "id": "8",
+            "__typename": "Post"
+          },
+          {
+            "title": "The lemon of a peach becomes a funny rabbit",
+            "id": "9",
+            "__typename": "Post"
+          },
+          {
+            "title": "The endurable chicken reveals itself as a tough seal to those who look",
+            "id": "10",
+            "__typename": "Post"
+          },
+          {
+            "title": "We can assume that any instance of a chicken can be construed as a delightful melon",
+            "id": "11",
+            "__typename": "Post"
+          },
+          {
+            "title": "Shouting with happiness, a squirrel sees a prune as an amusing owl",
+            "id": "12",
+            "__typename": "Post"
+          },
+          {
+            "title": "Quoting with intend: \"A lion sees a shark as a dynamic kiwi.",
+            "id": "13",
+            "__typename": "Post"
+          },
+          {
+            "title": "Some dynamic tigers are thought of simply as crocodiles",
+            "id": "14",
+            "__typename": "Post"
+          },
+          {
+            "title": "Some posit the relieved prune to be less than unbiased",
+            "id": "15",
+            "__typename": "Post"
+          },
+          {
+            "title": "A willing lime is a prune of the mind",
+            "id": "16",
+            "__typename": "Post"
+          },
+          {
+            "title": "A dolphin of the grapes is assumed to be a plausible scorpion",
+            "id": "17",
+            "__typename": "Post"
+          },
+          {
+            "title": "Wispering: \"The literature would have us believe that a careful snake is not but a seal;",
+            "id": "18",
+            "__typename": "Post"
+          },
+          {
+            "title": "Before strawberries, strawberries were only strawberries",
+            "id": "19",
+            "__typename": "Post"
+          },
+          {
+            "title": "They were lost without the tidy sheep that composed their zebra",
+            "id": "20",
+            "__typename": "Post"
+          },
+          {
+            "title": "Their cat was, in this moment, an amicable elephant",
+            "id": "21",
+            "__typename": "Post"
+          },
+          {
+            "title": "Those goats are nothing more than watermelons",
+            "id": "22",
+            "__typename": "Post"
+          },
+          {
+            "title": "Incomprehensibilities of a excellent blueberry and a blueberry made a scorpion comfortable",
+            "id": "23",
+            "__typename": "Post"
+          },
+          {
+            "title": "Coding for joy",
+            "id": "24",
+            "__typename": "Post"
+          },
+          {
+            "title": "On the road",
+            "id": "25",
+            "__typename": "Post"
+          }
+        ]
+      }
+    }
+  ],
+  "updatePost": [
+    {
+      "data": {
+        "updatePost": {
+          "id": "1",
+          "title": "A day on the beach 2",
+          "__typename": "Post"
+        }
+      }
+    }
+  ],
+  "deletePost": [
+    {
+      "data": {
+        "deletePost": "1"
+      }
+    }
+  ]
+}
