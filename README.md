@@ -1,4 +1,4 @@
-# Cypress GraphQL response stubbing & automatic fixture recording
+# Cypress GraphQL requests stubbing & automatic fixture recording
 
 A simplified example of an approach which combines React, Cypress and GraphQL and allows for:
 
